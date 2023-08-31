@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://127.0.0.1:6006/?darkMode=true
+HostUrl=http://127.0.0.1:6006/experiment/defaultExperimentId/data/plugin/scalars/scalars?tag=Training_Reward%2FEvolution_of_SR_LE&run=runs%2Fperformance%2Fperformance_training&format=csv
