@@ -1,3 +1,9 @@
+This is an implementation of AO-MARL for the purposes of an assignment for the TU Delft Course: AE4350 Bio-inspired Intelligence and learning for Aerospace Applications (2022/23 Q4)
+
+Modified by Anibal Luciano Pastinante - 5010276 
+
+For the original repository please see: https://github.com/Tomeu7/AO-MARL 
+
 # AO-MARL
 Implementation of Adaptive Optics control with Multi-Agent Model-Free Reinforcement Learning.
 
